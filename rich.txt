@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 my file edited 
+=======
+my file edited
+>>>>>>> parent of a81e67d... edited again
